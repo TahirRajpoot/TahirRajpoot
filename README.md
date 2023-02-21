@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/tahirrajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tahirrajpoot" height="30" width="40" /></a>
 <a href="https://fb.com//profile.php?id=100011036010733&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/profile.php?id=100011036010733&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com//tahir_rajpoot_i?igshid=ymjhnjkznzy=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/tahir_rajpoot_i?igshid=ymjhnjkznzy=" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mtahir3121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mtahir3121" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mtahir3121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mtahir3121" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
